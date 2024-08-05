@@ -1,0 +1,157 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    padding: 0px;
+    margin: 0px;
+}
+.bodypart{
+    background-color: rgb(194, 232, 218);
+    
+}
+.sravani{
+    margin-left: -90px;
+}
+.selection1{
+    margin-left: 250px;
+    padding-top: 40px;
+    float: left;
+    height: 150px;
+   
+}
+.selection2 img{
+    height: 300px;
+    width: 35%;
+    margin-left: 200px;
+    padding-top: 80px;
+    
+}
+.selection3{
+   padding-top: 50px;
+   float: left;
+   margin-left: 50px;
+}
+.selection4{
+    padding-top: 50px;
+    float: left;
+    margin-left: 80px;
+    /* border: 2px solid red; */
+}
+.selection5{
+    padding-top: 50px;
+    margin-left: 320px;
+    /* border: 2px solid red;  */
+    width: 80px;
+    height: 100px;
+   
+}
+.chanu{
+    margin-left: 210px;
+}
+button:hover{
+    background-color: chartreuse;
+    color: white;
+}
+button{
+    height: 40px;
+    width: 50%;
+}
+.bodypart2{
+    background-color: rgb(214, 192, 204);
+    padding-top: 20px;
+}
+.mini1{
+    text-align: center;
+    padding-top: 10px;
+}
+.mini2{
+    text-align: center;
+}
+.mini3 img{
+    width: 80px;
+    height: 90px;
+    float: left;
+    /* border: 2px solid red; */
+    height: 77px;
+
+}
+.mini3{
+    border: 2px solid red;
+    width: 300px;
+    float: left;
+    height: 95px;
+    background-color: white;
+}
+.mini4 img{
+    width: 80px;
+    height: 80px;
+    float: left;
+    
+    /* border: 2px solid red; */
+}
+.mini4 {
+    border: 2px solid red;
+    width: 300px;
+    float: left;
+    margin-left: 150px;
+    height: 95px;
+    background-color: white;
+    
+}
+.mini5 img{
+    width: 80px;
+    height:90px;
+    float: left;
+    float: left;
+    /* border: 2px solid red; */
+}
+.mini5{
+    border: 2px solid red;
+    width: 300px;
+    float: left;
+    margin-left: 150px;
+    height: 95px;
+    background-color: white;
+}
+.mouni{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.mini6 button{
+width: 7%;
+height: 40px;
+margin-left: 700px;
+}
+.mini6{
+    padding-top: 120px;
+    
+}
+.mini6 button:hover{
+    background-color: darkkhaki;
+}
+.sravani{
+    margin-top: 20px;
+}
+.mini3 h4,p{
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.mini4 h4,p{    
+   margin-top: 10px;
+    margin-left: 90px;
+}
+.mini5 h4,p{
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+.bodypart3{
+    background-color: white;
+    padding-top: 20px;
+}
+.sub1{
+    margin-left: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+.sub2{
+    margin-left: 250px;
+}
